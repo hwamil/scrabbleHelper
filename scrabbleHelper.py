@@ -1,7 +1,5 @@
 #! python3
 
-import sys
-from pprint import pprint
 from itertools import combinations as combo
 import enchant
 from bs4 import BeautifulSoup as bs
